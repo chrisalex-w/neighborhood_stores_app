@@ -198,7 +198,7 @@ class _StoreDetailsState extends State<StoreDetails> {
                     width: MediaQuery.of(context).size.width,
                     color: Colors.white,
                   child: Image.asset(
-                      "assets/heroes.jpg",
+                      "assets/sample.jpg",
                     fit: BoxFit.cover,
                   ),
                 ),
